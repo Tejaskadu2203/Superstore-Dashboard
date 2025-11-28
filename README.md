@@ -32,7 +32,8 @@ This project presents an **interactive Excel dashboard** built using real Supers
 - `Superstore-Dashboard.xlsx` — Final dashboard file
 - `README.md` — Project documentation
 
----
+<img width="972" height="398" alt="Image" src="https://github.com/user-attachments/assets/35baf475-1c5b-4131-8cde-a91022bdf804" />
+
 
 ## 👨‍💼 Created by:
 **Tejas Kadu**  
